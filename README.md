@@ -5,4 +5,4 @@ You can find the results (predicted masks) on the following link: https://drive.
 The pre-trained models will be uploaded. -> OK <br>
 (https://drive.google.com/drive/folders/11wYiAFXJQlStPh2gC5fkl41iMNRXKVIp?usp=sharing) <br>
 The final code will be released. <br>
-Better models on the DR segmentation problem will be released. -> OK <br>
+Better models on the DR segmentation problem will be released. -> OK (shuntedSeg.py) <br>
