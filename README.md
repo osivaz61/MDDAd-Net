@@ -6,3 +6,11 @@ The pre-trained models will be uploaded. -> OK <br>
 (https://drive.google.com/drive/folders/11wYiAFXJQlStPh2gC5fkl41iMNRXKVIp?usp=sharing) <br>
 The final code will be released. <br>
 Better models on the DR segmentation problem will be released. -> OK (shuntedSeg.py) <br>
+
+## Acknowledgements
+
+This project is based on or inspired by the following repositories:
+
+- [MambaVision](https://github.com/nvlabs/mambavision)
+- [ShuntedTransformer](https://github.com/OliverRensu/Shunted-Transformer)
+- [Log-vmamba](https://github.com/imedslab/LoG-VMamba)
