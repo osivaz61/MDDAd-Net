@@ -7,7 +7,9 @@ The pre-trained models will be uploaded. -> OK <br>
 Better models on the DR segmentation problem will be released. -> OK (shuntedSeg.py) <br>
 The final code will be released. <br>
 
-The results in the .out files are based on the coefficients in the .py files. The coefficients (lambda's) should be adjusted for these files that use the shuntedSeg model. They are arbitrary (they are for mambaVisionSeg).
+The results in the .out files are based on the coefficients in the .py files. The coefficients (lambda's) should be adjusted for these files that use the shuntedSeg model. They are arbitrary (they are for mambaVisionSeg). <br>
+
+Better idea for the IDRiD segmentation dataset: You can use the ddr grade part instead of the IDRiD grade part for the IDRiD segmentation dataset. Probably gives better results. <br>
 
 ## Acknowledgements
 
