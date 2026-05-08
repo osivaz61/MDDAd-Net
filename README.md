@@ -9,7 +9,9 @@ The final code will be released. <br>
 
 The results in the .out files are based on the coefficients in the .py files. The coefficients (lambda's) should be adjusted for these files that use the shuntedSeg model. They are arbitrary (they are for mambaVisionSeg). <br>
 
-Better idea for the IDRiD segmentation dataset: You can use the ddr grade part instead of the IDRiD grade part for the IDRiD segmentation dataset. Probably gives better results. <br>
+## Better ideas
+For the IDRiD segmentation dataset: You can use the ddr grade part instead of the IDRiD grade part for the IDRiD segmentation dataset. Probably gives better results. <br>
+Use the Shunted transformer Tiny model as a discriminator instead of the MambaVision Tiny model: it includes LayerNorm instead of BatchNorm. Probably gives better results. <br>
 
 ## Acknowledgements
 
