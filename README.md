@@ -14,6 +14,9 @@ The results in the .out files are based on the coefficients in the .py files. Th
 For the IDRiD segmentation dataset: You can use the ddr grade part instead of the IDRiD grade part for the IDRiD segmentation dataset. Probably gives better results. <br>
 Use the Shunted transformer Tiny model as a discriminator instead of the MambaVision Tiny model: it includes LayerNorm instead of BatchNorm. Probably gives better results. <br>
 
+## Little warning
+This MambaVision model, based on Mamba, involves randomness. The F.interpolate function also generates randomness. Different runs with the same parameters produce different results, but the results are very similar. <br>
+
 ## Acknowledgements
 
 This project is based on or inspired by the following repositories:
